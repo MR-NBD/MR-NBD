@@ -12,7 +12,7 @@
 ###
 
 ### 💼 What I'm Working On AND 🛠️ Personal Projects
-- ♟️ A Chess Engine in Python for learning purposes
+
 
 <h2 align="center">My Stats</h2>
 
