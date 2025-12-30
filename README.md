@@ -23,6 +23,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-NBD&layout=compact&theme=bear" alt="Top Languages"/>
+
+</div>
+
+###
+
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 ###
