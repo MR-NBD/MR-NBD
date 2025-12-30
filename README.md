@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-NBD&layout=compact&theme=bear" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-NBD&theme=bear" alt="GitHub Streak"/>
 
 </div>
 
