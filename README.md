@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-NBD&theme=bear" alt="GitHub Streak"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-NBD&theme=bear" alt="Most Commit Language"/>
 </div>
 
 ###
