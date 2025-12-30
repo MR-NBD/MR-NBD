@@ -17,17 +17,13 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-NBD&theme=bear" width=950  alt="stats graph"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
 </div>
 
-###
-
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-NBD&theme=bear" alt="Most Commit Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-NBD&theme=bear&utcOffset=1" alt="Productive Time"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-NBD&theme=bear" width=950  alt="stats graph"/>
+
 </div>
 
 ###
