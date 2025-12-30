@@ -1,30 +1,21 @@
 <h1 align="center"> Hey, I'm MR-NBD! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3><b> 🎓 MSc in Cybersecurity from 🏛️ Polytechnic of Turin</b></h3>
-      <h3><b>📍 Italy 🤌</b></h3>
-    </td>
-    <td valign="top" width="45%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
+
+<h3><b>🎓 MSc in Cybersecurity</b></h3>
+<h3><b>🏛️ Polytechnic of Turin</b></h3>
+<h3><b>📍 Italy 🤌</b></h3>
+
+<br clear="both"/>
 
 <h2 align="center">About Me</h2>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      🤖 I love learning new things.<br><br>
-      💻 I am constantly seeking out new technologies and learning about them.
-    </td>
-    <td valign="top" width="45%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
+
+🤖 I love learning new things.<br><br>
+💻 I am constantly seeking out new technologies and learning about them.
+
+<br clear="both"/>
 
 ### 💼 What I'm Working On AND 🛠️ Personal Projects
 
