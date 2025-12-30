@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm MR-NBD! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
 
 <h3><b>🎓 MSc in Cybersecurity</b></h3>
 <h3><b>🏛️ Polytechnic of Turin</b></h3>
@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
 
 🤖 I love learning new things.<br><br>
 💻 I am constantly seeking out new technologies and learning about them.
