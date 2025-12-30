@@ -1,15 +1,13 @@
 <h1 align="center"> Hey, I'm MR-NBD! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-<h3><b> 🎓 MSc in Cybersecurity</b></h3>
-<h3><b>📍🏛️ Polytechnic of Turin</b></h3>
+<h3><b> 🎓 MSc in Cybersecurity from 🏛️ Polytechnic of Turin</b></h3>
+<h3><b>📍 Italy 🤌</b></h3>
 
 <h2 align="center">About Me</h2>
 
 ###
 
 🤖 I love learning new things.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to my University Studies
-###
+💻 I am constantly seeking out new technologies and learning about them.
 
 ### 💼 What I'm Working On AND 🛠️ Personal Projects
 
