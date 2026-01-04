@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3><b>🎓 MSc in Cybersecurity from 🏛️ Polytechnic of Turin</b></h3>
-  <h3><b>📍 From Italy 🤌</b></h3>
+  <h3><b>📍 Currently in Italy 🤌</b></h3>
 </div>
 <br>
 <div align="center">
