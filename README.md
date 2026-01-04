@@ -5,7 +5,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
 </div>
 
-<div align="center">
+<div align="left">
   <h3><b>🎓 MSc in Cybersecurity</b></h3>
   <h3><b>🏛️ Polytechnic of Turin</b></h3>
   <h3><b>📍 Italy 🤌</b></h3>
