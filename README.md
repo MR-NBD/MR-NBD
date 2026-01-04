@@ -13,7 +13,6 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
 
 🤖 I love learning new things.<br><br>
-💻 I am constantly seeking out new technologies and learning about them.
 
 <br clear="both"/>
 
