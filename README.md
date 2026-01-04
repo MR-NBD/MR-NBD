@@ -1,15 +1,15 @@
 <h1 align="center"> Hey, I'm MR-NBD! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
-</div>
-
 <div align="left">
   <h3><b>🎓 MSc in Cybersecurity</b></h3>
   <h3><b>🏛️ Polytechnic of Turin</b></h3>
   <h3><b>📍 Italy 🤌</b></h3>
   <h3><b>🤖 I love learning new things.</b></h3></div>
+</div>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-NBD&theme=bear" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-NBD&theme=bear" alt="Repos per Language"/>
 </div>
 
 <br clear="both"/>
