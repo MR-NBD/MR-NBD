@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm MR-NBD! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> Hey, I'm MR-NBD!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <div align="center">
   <h3><b>🎓 MSc in Cybersecurity from 🏛️ Polytechnic of Turin</b></h3>
